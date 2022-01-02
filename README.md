@@ -2,6 +2,7 @@
 Integrantes:
 
 Nathaly Bermeo
+
 Christian Llumiquinga
 
 
