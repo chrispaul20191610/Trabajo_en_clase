@@ -1,8 +1,9 @@
 <ion-header [translucent]="true">
     <ion-toolbar color="dark">
         <ion-title class="text-sansita" color="light">
-            Películas
+            Películas 
         </ion-title>
+        <p>Integrantes: Christian Llumiquinga y Nathaly Bermeo</p>
     </ion-toolbar>
 </ion-header>
 
@@ -19,7 +20,7 @@
         </ion-row>
     </ion-grid>
 
-    <ion-list>
+  <!--   <ion-list>
         <ion-radio-group value="lastWeek" [(ngModel)]="periodo" (ionChange)="onClick($event)">
             <ion-item>
                 <ion-label>Última semana</ion-label>
@@ -47,7 +48,7 @@
             <ion-label position="floating">Selecciona número de votos mínimo</ion-label>
             <ion-input type="number" color="primary" placeholder="1" [(ngModel)]="numeroVotos" debounce="1500" (ionChange)="onClick($event)" required></ion-input>
         </ion-item>
-    </ion-list>
+    </ion-list> -->
 
     <!-- <ion-slides [options]="slideOpts">
         <ion-slide *ngFor="let pelicula of peliculasRecientes">
