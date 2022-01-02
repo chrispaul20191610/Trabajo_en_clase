@@ -1,5 +1,5 @@
 # Trabajo en clase ionic
-Integrantes:
+# Integrantes:
 
 Nathaly Bermeo
 
