@@ -1,4 +1,4 @@
-# TRABAJO EN CLASE
+# Trabajo en clase ionic
 Integrantes:
 
 Nathaly Bermeo
