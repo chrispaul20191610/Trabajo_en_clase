@@ -59,6 +59,10 @@ Guardar películas en favoritos
 
 ![image](https://user-images.githubusercontent.com/66235614/147894339-01a2a44e-b2c8-4ae1-bcd9-6e6c4e731857.png)
 
+El funcionamiento de la aplicación se ejecutó en Android de Studio
+
+![image](https://user-images.githubusercontent.com/66235614/147894666-e6d8c418-0549-4477-b2e8-a8cbf3cb95a7.png)
+
 Se genera la apk y bundle de la aplicación.
 
 ![image](https://user-images.githubusercontent.com/66235614/147894453-e55695ec-d0db-4d92-baa7-6f99fbb2f265.png)
