@@ -32,6 +32,38 @@ Mostrar películas populares.
 
 Modal con detalles de la película
 
+![image](https://user-images.githubusercontent.com/66235614/147894105-f604fb8c-3cb5-44f4-a568-eaf08a14cea7.png)
+
+![image](https://user-images.githubusercontent.com/66235614/147894079-35eda82a-c602-4251-8aac-2457deca02cb.png)
+
+Modal con detalles del actor
+
+![image](https://user-images.githubusercontent.com/66235614/147894166-014e802a-a19e-4d4b-ba67-9341f74487be.png)
+
+![image](https://user-images.githubusercontent.com/66235614/147894150-e1e36a70-070d-4d9c-beff-874e93aaaaed.png)
+
+Buscador de películas
+
+![image](https://user-images.githubusercontent.com/66235614/147894209-4491a904-29ac-45af-a320-eb515ec6eb07.png)
+
+![image](https://user-images.githubusercontent.com/66235614/147894211-316e7e03-d617-4209-afb1-106bc2f5bb7b.png)
+
+Guardar películas en favoritos
+
+![image](https://user-images.githubusercontent.com/66235614/147894227-25f434c8-55c3-4546-b632-cbf6b5bc1ea2.png)
+
+![image](https://user-images.githubusercontent.com/66235614/147894258-87f35ced-4d2e-49b8-9267-3fb47b40bb9a.png)
+
+![image](https://user-images.githubusercontent.com/66235614/147894263-db042a06-3e6f-4cd0-987e-b9fb7fb44813.png)
+
+
+
+
+
+
+
+
+
 
 
 
