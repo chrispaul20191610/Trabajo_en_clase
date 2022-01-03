@@ -24,6 +24,17 @@ Christian Llumiquinga
 
 ![image](https://user-images.githubusercontent.com/66235614/147893895-ae2b7dfd-ca75-4359-8655-8e80e4740089.png)
 
+# Funcionalidad de la aplicación
+
+Mostrar películas populares.
+
+![image](https://user-images.githubusercontent.com/66235614/147894033-8bb8936c-5c2b-4f99-abf7-88301d4dd42a.png)
+
+Modal con detalles de la película
+
+
+
+
 
 
 
