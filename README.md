@@ -9,7 +9,9 @@ Christian Llumiquinga
 1. Para el desarrollo de este trabajo en grupo clonamos el repositorio de github https://github.com/Awandor/ionic-peliculas-app.
 
 2. Se crea un servicio para para manejar las peliculas.
+
 ![image](https://user-images.githubusercontent.com/66235614/147893766-8e640bd1-cd69-4306-bfad-57dd347ce34a.png)
+
 3. Se crea una interface para la aplicación.
 
 ![image](https://user-images.githubusercontent.com/66235614/147893794-50ba384a-a6e8-4135-a7ed-f3edb52bad0a.png)
