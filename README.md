@@ -1,4 +1,4 @@
-# Trabajo en clase ionic : Aplicación de manejo  de información de películas
+# Trabajo en clase ionic : Aplicación de información de películas
 
 Integrantes:
 
