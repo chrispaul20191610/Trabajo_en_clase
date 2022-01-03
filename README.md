@@ -67,6 +67,9 @@ Se genera la apk y bundle de la aplicación.
 
 ![image](https://user-images.githubusercontent.com/66235614/147894453-e55695ec-d0db-4d92-baa7-6f99fbb2f265.png)
 
+![image](https://user-images.githubusercontent.com/66235614/147901192-1da9b24b-c197-48fa-adc4-a4dce0f6e3cf.png)
+
+![image](https://user-images.githubusercontent.com/66235614/147901208-aa794d6f-99de-4c68-92c3-99454a38285a.png)
 
 
 
