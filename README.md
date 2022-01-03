@@ -28,19 +28,19 @@ Christian Llumiquinga
 
 Mostrar películas populares.
 
-![image](https://user-images.githubusercontent.com/66235614/147894033-8bb8936c-5c2b-4f99-abf7-88301d4dd42a.png)
+![image](https://user-images.githubusercontent.com/66235614/147894371-040ddf89-d657-41a9-82a9-2658b92b7932.png)
 
 Modal con detalles de la película
 
 ![image](https://user-images.githubusercontent.com/66235614/147894105-f604fb8c-3cb5-44f4-a568-eaf08a14cea7.png)
 
-![image](https://user-images.githubusercontent.com/66235614/147894079-35eda82a-c602-4251-8aac-2457deca02cb.png)
+![image](https://user-images.githubusercontent.com/66235614/147894378-018a80ab-4c69-4115-ab6a-0b1a82e29962.png)
 
 Modal con detalles del actor
 
 ![image](https://user-images.githubusercontent.com/66235614/147894166-014e802a-a19e-4d4b-ba67-9341f74487be.png)
 
-![image](https://user-images.githubusercontent.com/66235614/147894150-e1e36a70-070d-4d9c-beff-874e93aaaaed.png)
+![image](https://user-images.githubusercontent.com/66235614/147894349-45ac6fed-1754-4b27-a201-628d7170f64d.png)
 
 Buscador de películas
 
