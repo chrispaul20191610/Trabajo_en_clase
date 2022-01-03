@@ -46,7 +46,7 @@ Buscador de películas
 
 ![image](https://user-images.githubusercontent.com/66235614/147894209-4491a904-29ac-45af-a320-eb515ec6eb07.png)
 
-![image](https://user-images.githubusercontent.com/66235614/147894211-316e7e03-d617-4209-afb1-106bc2f5bb7b.png)
+![image](https://user-images.githubusercontent.com/66235614/147894317-17326cf6-e75a-4d47-8a86-d2e971b26422.png)
 
 Guardar películas en favoritos
 
@@ -54,7 +54,7 @@ Guardar películas en favoritos
 
 ![image](https://user-images.githubusercontent.com/66235614/147894258-87f35ced-4d2e-49b8-9267-3fb47b40bb9a.png)
 
-![image](https://user-images.githubusercontent.com/66235614/147894263-db042a06-3e6f-4cd0-987e-b9fb7fb44813.png)
+![image](https://user-images.githubusercontent.com/66235614/147894339-01a2a44e-b2c8-4ae1-bcd9-6e6c4e731857.png)
 
 
 
