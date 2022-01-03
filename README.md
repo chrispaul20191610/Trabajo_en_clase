@@ -1,10 +1,11 @@
-# Trabajo en clase ionic
+# Trabajo en clase ionic : Aplicación de manejo  de información de películas
 
 Integrantes:
 
 Nathaly Bermeo
 
 Christian Llumiquinga
+
 
 1. Para el desarrollo y modificación de este trabajo en grupo clonamos el repositorio de github https://github.com/Awandor/ionic-peliculas-app.
 
